@@ -3,6 +3,8 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+#### 👉🌸 Hi this is my new github account, if you want to see my previous good deeds then check out my previous account. Account link: https://github.com/Mahbub-Hasan1 🌸👈
+
 - 🌱 I’m currently learning ... everything 🤣
 - ❤️ Technology Is My Love 😍
 - 😎 Programming Is My Passion 🙃
@@ -10,8 +12,6 @@
 - 🥰 Perfection Is My Habit 🌍
 - ⚡ Fun fact: ... Love to travel on vacation 🥰
 -->
-
-#### 👉🌸 Hi this is my new github account, if you want to see my previous good deeds then check out my previous account. Account link: https://github.com/Mahbub-Hasan1 🌸👈
 
 ### Connect with me:
 
