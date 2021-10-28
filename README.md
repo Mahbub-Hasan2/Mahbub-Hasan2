@@ -11,6 +11,8 @@
 - ⚡ Fun fact: ... Love to travel on vacation 🥰
 -->
 
+#### Hi this is my new github account, if you want to see my previous good deeds then check out my previous account. Account link: https://github.com/Mahbub-Hasan1
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahbub-hasan-b112b01ba/) 
