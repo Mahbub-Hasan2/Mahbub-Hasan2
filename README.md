@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... Love to travel on vacation 🥰
 -->
 
-#### - 👉🌸 Hi this is my new github account, if you want to see my previous good deeds then check out my previous account. Account link: https://github.com/Mahbub-Hasan1
+#### 👉🌸 Hi this is my new github account, if you want to see my previous good deeds then check out my previous account. Account link: https://github.com/Mahbub-Hasan1 🌸👈
 
 ### Connect with me:
 
