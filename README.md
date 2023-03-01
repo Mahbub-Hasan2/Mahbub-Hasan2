@@ -12,12 +12,13 @@
 - ⚡ Fun fact: ... Love to travel on vacation 🥰
 -->
 
+<br />
+
 ### Connect with me:
 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/mahbubdev2) 
-[![Linkdin Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=linkdin&logoColor=ffffff)](https://web.facebook.com/mahbubdev2) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/mahbubdev2) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/mahbubdev2) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahbubdev1/) 
+<img src="https://komarev.com/ghpvc/?username=mahbub-hasan2" alt="mahbub-hasan2" />
 
 
 ### Languages and Tools:
