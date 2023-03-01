@@ -19,7 +19,7 @@
 ### ====❤️===😍====
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub-hasan2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub-hasan2&card_width=550)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub-Hasan2&card_width=550)](https://github.com/Mahbub-Hasan2)
