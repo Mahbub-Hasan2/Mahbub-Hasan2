@@ -18,6 +18,7 @@
 
 ### ====❤️===😍====
 
+<img width="550px" alt="Munir Uddin Mahbub Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Mahbub-Hasan2&show_icons=true"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub-hasan2&card_width=550)](https://github.com/anuraghazra/github-readme-stats)
 
