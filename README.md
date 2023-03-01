@@ -23,3 +23,10 @@
 <img width="550px" alt="Munir Uddin Mahbub Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Mahbub-Hasan2&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub-Hasan2&card_width=550)](https://github.com/Mahbub-Hasan2)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahbub-Hasan2&repo=github-readme-stats)](https://github.com/Mahbub-Hasan2/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahbub-Hasan2&repo=github-readme-stats)](https://github.com/Mahbub-Hasan2/github-readme-stats)
+
+
+
