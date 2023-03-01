@@ -17,3 +17,6 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/mahbubdev2) 
 
 ### ====❤️===😍====
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub-hasan2)](https://github.com/anuraghazra/github-readme-stats)
