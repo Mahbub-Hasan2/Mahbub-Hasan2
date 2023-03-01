@@ -20,10 +20,7 @@
 
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mahbub-hasan2&card_width=550&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mahbub-hasan2/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mahbub-hasan2&card_width=550&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mahbub-hasan2/github-readme-stats#gh-light-mode-only)
-
-<img width="550px" alt="Mahbub Hasan Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Mahbub-Hasan2&show_icons=true"/>
+<img width="550px" alt="Munir Uddin Mahbub Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Mahbub-Hasan2&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub-Hasan2&card_width=550)](https://github.com/Mahbub-Hasan2)
 
